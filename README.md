@@ -7,6 +7,9 @@
 
   At the bottom of the page you will find fontAwesome elements that will take you to my facebook, instagram, and gitHub pages.
 
+  ## please use this link to see deployed page
+  https://tbowenmsu.github.io/homework-unit-2/
+
   ```
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at taylor.p.bowen@gmail.com. You can find more of my work at [tbowenmsu](https://github.com/tbowenmsu/).
