@@ -8,7 +8,7 @@
   At the bottom of the page you will find fontAwesome elements that will take you to my facebook, instagram, and gitHub pages.
 
   ## please use this link to see deployed page
-  https://tbowenmsu.github.io/homework-unit-2/
+  https://tbowenmsu.github.io/Profile-Page/
 
   ```
   ## Questions
